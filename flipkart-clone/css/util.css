@@ -1,0 +1,18 @@
+.flex-all-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 62px;
+    height: 28px;
+    margin: 0 5px;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
